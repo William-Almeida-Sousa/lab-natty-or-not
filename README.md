@@ -12,7 +12,7 @@ Solicitando para a IA "Crie uma imagem realista de uma reportagem informando que
 ## 🚀 Resultados
 Uma reportagem fake informando que existem girafas no Alasca.
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 Com a utilização da IA podemos criar infinitas situações.
 
 ## 📷 Resultado da Imagem

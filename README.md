@@ -14,3 +14,7 @@ Uma reportagem fake informando que existem girafas no Alasca.
 
 ## 💭 Reflexão (Opcional)
 Com a utilização da IA podemos criar infinitas situações.
+
+## 📷 Resultado da Imagem
+
+![Alt text](./girafas.jpg "Optional title")
